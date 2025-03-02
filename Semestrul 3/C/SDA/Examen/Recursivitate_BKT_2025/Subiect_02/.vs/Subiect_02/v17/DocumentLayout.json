@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daria\\Documents\\GitHub\\Faculta\\Anul 2\\Structuri-de-date-si-algoritmi-SDA-\\Examen\\Recursivitate_BKT_2025\\Subiect_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C9CF66-7AF6-431B-AA30-88080061296E}|Subiect_02.vcxproj|C:\\Users\\daria\\Documents\\GitHub\\Faculta\\Anul 2\\Structuri-de-date-si-algoritmi-SDA-\\Examen\\Recursivitate_BKT_2025\\Subiect_02\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5C9CF66-7AF6-431B-AA30-88080061296E}|Subiect_02.vcxproj|solutionrelative:Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\daria\\Documents\\GitHub\\Faculta\\Anul 2\\Structuri-de-date-si-algoritmi-SDA-\\Examen\\Recursivitate_BKT_2025\\Subiect_02\\Main.c",
+              "RelativeDocumentMoniker": "Main.c",
+              "ToolTip": "C:\\Users\\daria\\Documents\\GitHub\\Faculta\\Anul 2\\Structuri-de-date-si-algoritmi-SDA-\\Examen\\Recursivitate_BKT_2025\\Subiect_02\\Main.c",
+              "RelativeToolTip": "Main.c",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-17T17:53:34.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

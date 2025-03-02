@@ -1,0 +1,38 @@
+Se foloseste fisierul original cu filme. Se poate sterge manual prima linie. Pentru citire se poate pleca de la 
+while(fscanf(f, "%d %d %[^\t] %[^\t] %[^\t\n\r] ", ...) == 5){
+        
+}
+Filmul are an, durata, titlu, gen, premii si un pointer la urm. Fiecare film sa fie alocat dinamic separat. Sa se citeasca TOATE filmele din fisier.
+Sa se retina si sa se formeze:
+	- un vector de 100 de pointeri care foloseste tehnica dispersiei (tablou de dispersie). Pentru a rezolva conflictele se va folosi campul urm.
+Sortarea este alfabetica.
+
+functia hash pentru un string va fi:
+	x=0
+	x = x + c; for each char c in string
+	return x mod 100
+
+Sa se creeze functii pentru afisarea filmelor din vector. Pentru hash table sa se afiseze astfel
+index 0:
+	film1
+	film2
+	...
+index 1:
+	filmx
+	filmy
+	...
+...
+
+Sa se creeze functii pentru cautarea unui film dupa titlu in vector. Sa se trateze cazul in care filmul nu exista. Functia de cautare nu afiseaza nimic, doar returneaza. Daca se cauta filmul "Yellowbeard", trebuie sa putem din rezultatul cautarii extrage anul si durata (1983, 97).
+
+Pentru toate functiile sa se analizeze complexitatile. Se considera numarul de filme n si lungimea medie a titlurilor k.
+Nu uitati sa dati free la final!
+
+Barem orientativ:
+	- definirea structurilor de date. 1p
+	- printarea vectorului. 3p
+	- functie pentru adaugarea unui film in vectorul dispersat. 3p
+	- functii de cautare in vector. 3p
+
+
+ 

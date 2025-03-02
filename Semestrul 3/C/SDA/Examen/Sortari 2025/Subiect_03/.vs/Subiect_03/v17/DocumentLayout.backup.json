@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daria\\Documents\\GitHub\\Faculta\\Anul 2\\Structuri-de-date-si-algoritmi-SDA-\\Examen\\Sortari 2025\\Subiect_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{575F44BD-3F00-4759-8AA9-6786BCEB1C9E}|Subiect_03.vcxproj|C:\\Users\\daria\\Documents\\GitHub\\Faculta\\Anul 2\\Structuri-de-date-si-algoritmi-SDA-\\Examen\\Sortari 2025\\Subiect_03\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{575F44BD-3F00-4759-8AA9-6786BCEB1C9E}|Subiect_03.vcxproj|solutionrelative:data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575F44BD-3F00-4759-8AA9-6786BCEB1C9E}|Subiect_03.vcxproj|C:\\Users\\daria\\Documents\\GitHub\\Faculta\\Anul 2\\Structuri-de-date-si-algoritmi-SDA-\\Examen\\Sortari 2025\\Subiect_03\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{575F44BD-3F00-4759-8AA9-6786BCEB1C9E}|Subiect_03.vcxproj|solutionrelative:Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\daria\\Documents\\GitHub\\Faculta\\Anul 2\\Structuri-de-date-si-algoritmi-SDA-\\Examen\\Sortari 2025\\Subiect_03\\data.txt",
+              "RelativeDocumentMoniker": "data.txt",
+              "ToolTip": "C:\\Users\\daria\\Documents\\GitHub\\Faculta\\Anul 2\\Structuri-de-date-si-algoritmi-SDA-\\Examen\\Sortari 2025\\Subiect_03\\data.txt",
+              "RelativeToolTip": "data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-13T18:23:07.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\daria\\Documents\\GitHub\\Faculta\\Anul 2\\Structuri-de-date-si-algoritmi-SDA-\\Examen\\Sortari 2025\\Subiect_03\\Main.c",
+              "RelativeDocumentMoniker": "Main.c",
+              "ToolTip": "C:\\Users\\daria\\Documents\\GitHub\\Faculta\\Anul 2\\Structuri-de-date-si-algoritmi-SDA-\\Examen\\Sortari 2025\\Subiect_03\\Main.c",
+              "RelativeToolTip": "Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-13T17:59:33.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

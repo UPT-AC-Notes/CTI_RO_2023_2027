@@ -1,0 +1,5 @@
+Maria 23 0
+Daria 20 1
+Ana 20 1
+Ileana 15 0
+Johnny 23 1

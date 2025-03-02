@@ -1,0 +1,5 @@
+﻿  Main.c
+C:\Users\daria\Documents\GitHub\Faculta\Anul 2\Structuri-de-date-si-algoritmi-SDA-\Examen\Recursivitate_BKT_2025\Subiect_07\Main.c(38,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\daria\Documents\GitHub\Faculta\Anul 2\Structuri-de-date-si-algoritmi-SDA-\Examen\Recursivitate_BKT_2025\Subiect_07\Main.c(71,14): warning C4090: '=': different 'const' qualifiers
+C:\Users\daria\Documents\GitHub\Faculta\Anul 2\Structuri-de-date-si-algoritmi-SDA-\Examen\Recursivitate_BKT_2025\Subiect_07\Main.c(63,6): warning C4101: 'i': unreferenced local variable
+  Subiect_07.vcxproj -> C:\Users\daria\Documents\GitHub\Faculta\Anul 2\Structuri-de-date-si-algoritmi-SDA-\Examen\Recursivitate_BKT_2025\Subiect_07\x64\Debug\Subiect_07.exe

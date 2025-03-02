@@ -1,4 +1,4 @@
-#include <stdio.h>
+0##include <stdio.h>
 #include <stdlib.h>
 #define Datein "date3.txt"
 typedef struct angajat {

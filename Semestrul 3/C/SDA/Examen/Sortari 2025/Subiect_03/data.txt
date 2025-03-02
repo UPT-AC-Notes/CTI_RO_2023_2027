@@ -1,0 +1,5 @@
+Daria 3500 1
+Dan 3000 0
+Ileana 2900 0
+Anisia 3300 1
+Gabriel 1700 1
